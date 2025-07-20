@@ -17,3 +17,5 @@ console.log('operador OR', mayor || suscrito);
 //NOT !antes de la variable
 
 console.log('operador NOT', !mayor);
+
+let soloCatalogoInfantil = !mayor;
